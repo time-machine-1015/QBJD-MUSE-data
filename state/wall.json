@@ -1,6 +1,6 @@
 {
   "v": 0,
-  "updatedAt": 1794487954908,
+  "updatedAt": 1794488122302,
   "memories": [
     {
       "id": "1791720317710-81n80a.jpeg",
@@ -151,7 +151,9 @@
       "author": "",
       "story": "",
       "season": 2,
-      "likes": [],
+      "likes": [
+        "chenjianhao"
+      ],
       "commentCount": 0,
       "w": 1600,
       "h": 1200,
